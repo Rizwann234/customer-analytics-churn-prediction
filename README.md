@@ -3,6 +3,9 @@
 ## Description
 A machine learning project focused on predicting customer churn using product analytics data. This solution helps businesses identify customers at risk of churning by analyzing usage patterns and engagement metrics. 
 
+## Download the dataset
+The dataset used in this project is the [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) from Kaggle. Download and place the CSV file in a `data` directory before running the notebooks yourself.
+
 ## Installation
 ```bash
 git clone https://github.com/Rizwann234/product-analytics-churn-prediction.git
