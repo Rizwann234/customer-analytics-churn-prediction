@@ -10,24 +10,16 @@ cd product-analytics-churn-prediction
 pip install -r requirements.txt
 ```
 
-## Contributing
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/NewModel`)
-3. Commit your changes (`git commit -m 'Add new prediction model'`)
-4. Push to the branch (`git push origin feature/NewModel`)
-5. Open a Pull Request
-
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Contact
 Rizwan Nobeebux
-Email: Rizwann234@outlook.com
-LinkedIn:
-Project Link: [https://github.com/yourusername/product-analytics-churn-prediction](https://github.com/yourusername/product-analytics-churn-prediction)
+- Email: rizwann234@outlook.com
+- Project Link: [https://github.com/yourusername/product-analytics-churn-prediction](https://github.com/Rizwann234/product-analytics-churn-prediction)
 
 ## Acknowledgments
-* Scikit-learn
-* Streamlit
-* Pandas
-* NumPy
+- Scikit-learn
+- Streamlit
+- Pandas
+- NumPy
