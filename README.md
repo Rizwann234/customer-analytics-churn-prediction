@@ -27,7 +27,7 @@ LinkedIn:
 Project Link: [https://github.com/yourusername/product-analytics-churn-prediction](https://github.com/yourusername/product-analytics-churn-prediction)
 
 ## Acknowledgments
-* Scikit-learn
-* Streamlit
-* Pandas
-* NumPy
+- Scikit-learn
+- Streamlit
+- Pandas
+- NumPy
