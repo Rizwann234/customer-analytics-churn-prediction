@@ -10,13 +10,22 @@ cd product-analytics-churn-prediction
 pip install -r requirements.txt
 ```
 
+## Running Streamlit Dashboard
+```bash
+# For Windows
+streamlit run app.py
+
+# For MacOS/Linux
+python -m streamlit run app.py
+```
+
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Contact
 Rizwan Nobeebux
 - Email: rizwann234@outlook.com
-- Project Link: [https://github.com/yourusername/product-analytics-churn-prediction](https://github.com/Rizwann234/product-analytics-churn-prediction)
+- Project Link: [https://github.com/Rizwann234/product-analytics-churn-prediction](https://github.com/Rizwann234/product-analytics-churn-prediction)
 
 ## Acknowledgments
 - Scikit-learn
